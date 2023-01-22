@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/NaufalFarros/GOLANG_FIBER_RESTAPI/models"
+	"github.com/NaufalFarros/golang_fiber_restapi/models"
 	"github.com/gofiber/fiber/v2"
 )
 
